@@ -13,7 +13,7 @@ This is a simple To-Do List app built using React. It allows users to add and de
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-repo.git
+git clone
 
 cd your-repo
 
